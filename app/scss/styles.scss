@@ -1,0 +1,10 @@
+@use "sass:math";
+
+// styles.scss
+#body{
+    color:pink;
+}
+
+.testing {
+    width: math.div(1,2);
+  }

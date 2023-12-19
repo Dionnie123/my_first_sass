@@ -1,0 +1,6 @@
+@use "sass:math";
+
+// styles.scss
+.testing {
+    width: math.div(10,5);
+  }
